@@ -79,3 +79,17 @@
             font-weight:bold;
         }
     }
+
+    .title-row {
+        background-image: url('../img/banners/when-the-wild-beckons1-1920x650.jpg');
+        padding: 12em 0 1em;
+        background-color: #141823;
+        background-size: 100% auto;
+    }
+
+    h2.title {
+        color: white;
+        text-shadow:#141823;
+        text-shadow: 2px 2px 8px #141823;
+        font-size: 3.5em;
+    }
